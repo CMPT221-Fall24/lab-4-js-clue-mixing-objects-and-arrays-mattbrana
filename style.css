@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+div{
+    text-align: center;
+
+}
+#reveal{
+    color: white;
+    background-color: #3b3b3b;
+    padding: 10px;
+    border-radius:15px ;
+    border: 2px solid black
+}
+
+html{
+    background-color: #3b3b3b;
+}
